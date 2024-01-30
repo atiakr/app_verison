@@ -1,1 +1,1 @@
-WSHelper: 0.1.0
+WSHelper: 0.1.1
